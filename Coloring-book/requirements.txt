@@ -1,0 +1,9 @@
+Eel
+numpy
+openai
+Pillow
+playwright
+requests
+selenium
+webdriver_manager
+pypdf2
